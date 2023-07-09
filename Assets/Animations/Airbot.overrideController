@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Airbot
+  m_Controller: {fileID: 9100000, guid: 74752c7903fc35f40961f1e0217c6c3e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 20db80e648efe0849a5d561e1800db0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2a94c091b51ca374aa43d8a0edf73ec2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3978331a61ebe994fb5fc2b35a4148ce, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e291058cf11b38344b79212c221c89a5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ae3a5e31916c6f4a9329fdbe4aa1dea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7d16440f55a6c4048af5d5885203657e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ba490682e3080764da3438197daf0d36, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 878e831958a502b4e9cadc43eb69b42f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ca74398896d3d14c88fbcf1e2416c1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97ccbf7eb3f863c4fa6d65796a335981, type: 2}
